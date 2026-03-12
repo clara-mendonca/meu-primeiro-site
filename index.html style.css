@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meu primeiro site</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Olá, eu sou a Clara</h1>
+
+<p>Estudante de Análise e Desenvolvimento de Sistemas.</p>
+
+<p>Estou aprendendo programação e construindo meus primeiros projetos.</p>
+
+<button>Contato</button>
+
+</body>
+</html>
+
+body {
+font-family: Arial;
+background-color: #f4f4f4;
+text-align: center;
+padding: 50px;
+}
+
+h1 {
+color: #333;
+}
+
+button {
+background-color: #4CAF50;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+}
